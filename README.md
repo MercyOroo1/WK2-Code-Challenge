@@ -16,7 +16,7 @@ Description
 This is a program that takes accepts two numbers, a start and an end, and generates an array between them.
 
  
-Project three : Prime Generator
+Project three : Prime Number Generator
 
 Description 
 This is a program that takes in an array as input and returns a new array containing prime numbers from the original array.
@@ -28,10 +28,10 @@ Installation requirements
 Git 
 
 Installation instruction 
-Git clone 
+Git clone git@github.com:MercyOroo1/WK2-Code-Challenge.git
 
 Live link
-
+ https://mercyoroo1.github.io/WK2-Code-Challenge/
 
 Technologies used
 HTML
